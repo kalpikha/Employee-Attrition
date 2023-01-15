@@ -10,3 +10,10 @@ Dataset used from - https://www.kaggle.com/datasets/whenamancodes/hr-employee-at
 
 # Metric used for classification - Accuracy score
 It is the percentage of labels that our model successfully predicted is represented by accuracy. For instance, if our model accurately classified 80 of 100 labels, its accuracy would be 0.80
+
+# Accuracy score on different models :
+- Logistics Regression - 86.84
+- Random forest - 86.17
+- KNN - 84.8
+- Decision Tree - 83.44
+- XGBoost - 86.84
