@@ -9,4 +9,4 @@ Dataset used from - https://www.kaggle.com/datasets/whenamancodes/hr-employee-at
 - If the relationship satisfaction level is less than three points, there is a high possibility of changing jobs.
 
 # Metric used for classification - Accuracy score
-The percentage of labels that our model successfully predicted is represented by accuracy. For instance, if our model accurately classified 80 of 100 labels, its accuracy would be 0.80
+It is the percentage of labels that our model successfully predicted is represented by accuracy. For instance, if our model accurately classified 80 of 100 labels, its accuracy would be 0.80
