@@ -3,7 +3,7 @@
 Dataset used from - https://www.kaggle.com/datasets/whenamancodes/hr-employee-attrition
 
 # Conclusions
-- people who receive less than 2,370 are likely to change jobs.
+- people who receive less than $2,370 are likely to change jobs.
 - People over 31 and under 36 change jobs a lot.
 - If the distance from home is more than 10, there is a possibility of changing jobs.
 - If the relationship satisfaction level is less than three points, there is a high possibility of changing jobs.
